@@ -58,7 +58,11 @@ This API documentation provides an overview of available endpoints for accessing
 
 ---
 
+## Rate Limits & Support
+
 Each IP is limited to 120 requests per minute to ensure fair usage.
+
+The API comes with NO support.
 
 ---
 
